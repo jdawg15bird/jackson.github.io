@@ -1,0 +1,61 @@
+/* stylelint-disable selector-list-comma-newline-after */
+
+body{
+  font-family: sans-serif;
+  font-size: 1vw;
+  color: #272727;
+  background-image: url(/Users/jacksonbird/Desktop/pexels-photo-268415.jpeg);
+  background-size: 400%;
+  background-repeat: repeat-y;
+  background-position:top;
+  align-items: center;
+  text-align: center;
+  padding: 2vw;
+}
+.header{
+  font-family: Consolas;
+  font-size: 5vw;
+  color: #272727; 
+  position: sticky;
+  text-align: left;   
+  font-weight: bold;
+}
+.content{
+  font-family: sans-serif;
+  font-size: 3vw;
+  color: #272727; 
+  padding: 1vw;  
+  align-items: center;
+  text-align: center;
+  align-self: auto;
+}
+.list{
+  text-align: left;
+  font-size: 2vw;
+  padding: 1vw;
+}
+
+a{
+  text-decoration: none;
+  color: #272727;
+}
+a :hover{
+  text-decoration: underline;
+}
+
+img{
+  width: 20vw;
+  height: auto;
+}
+.footer{
+  padding: 1vw;
+  font-size: 2vw;
+  text-align: center;
+}
+.subheader{
+  font-family: Consolas;
+  font-size: 4vw;
+  color: #272727; 
+  padding: 1vw;  
+  text-align: center;  
+}
